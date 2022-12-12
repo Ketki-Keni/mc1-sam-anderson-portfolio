@@ -1,1 +1,107 @@
-/* Write CSS code here */
+body{
+   background-color: #F9F4ED;
+}
+.center{
+    text-align: center;
+}
+.profile-image{
+    margin-left: 36%;
+    width: 330px;
+    height: 360px;
+}
+.top-bar{
+    font-family: 'Dosis';
+    font-weight: bold;
+    background-color: #c66;
+    padding: 10px;
+    font-size: 18px;
+    color:#F9F4ED;
+    margin-left: 27%;
+    margin-right: 27%;
+    border-radius: 5px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.line{
+    background-color: #c66;
+    padding: 6px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 26%;
+    margin-right: 26%;
+    border-radius: 5px;
+}
+span{
+    color: #444;
+    font-family: 'Caveat';
+    border: 3px solid #444;
+    margin-left: 24%;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 12%;
+    border-width: 6px;
+    
+}
+.name{
+    font-family: 'Dosis';
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+    color: #444;
+    letter-spacing: 2px; 
+}
+.bio{
+    text-align: center;
+    font-family: 'Bitter';
+    font-size: 25px;
+    margin-left: 27%;
+    margin-right: 27%;
+    color: #444;
+}
+h2{
+    margin-left: 26%;
+    font-size: 25px;
+    font-family: 'Dosis';
+    color: #444;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+h3 a{
+    font-size: 30px;
+    font-family: 'Dosis';
+    color: #444;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+ul{
+    list-style-type: none;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+li{
+    color: #444;
+}
+.aside a{
+    font-size: 25px;
+    color: #444;
+    font-family: 'Dosis';
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+p{
+    font-family: 'Bitter';
+    color: rgb(158, 167, 175);
+}
+footer p{
+    margin-left: 25%;
+    color: #444;
+    font-size: 18px;
+    font-family: 'Bitter';
+    margin-bottom: 5%;
+}
+footer a{
+    color: #444;
+}
+
+
